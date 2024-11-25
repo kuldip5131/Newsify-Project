@@ -1,0 +1,151 @@
+.new {
+    text-align: center;
+    background-color: rgb(0, 255, 98);
+    padding: 5px 0px;
+}
+
+.coloerbotton {
+    border-radius: 20px;
+    background-color: #1668e8;
+    border: none;
+    color: white;
+    padding: 0px 15px 0px 15px;
+}
+
+.navcoloer {
+    background-color: white !important;
+}
+
+.mainlogo {
+    color: #1668e8 !important;
+    padding-left: 100px;
+}
+
+.navsearch {
+    border-radius: 20px;
+    color: black;
+    padding: 5px 0px 5px 20px;
+}
+
+.navbuttons {
+    border-radius: 20px;
+    background-color: #1668e8;
+    color: white;
+    border: none;
+    padding: 5px 20px 5px 20px;
+}
+
+.divgep {
+    margin-top: 120px;
+}
+
+.sampimg {
+    width: 30px;
+}
+
+.divtext {
+    font-size: 56px;
+}
+
+.divyour {
+    border-radius: 20px;
+    color: black;
+    padding: 5px 40px 5px 20px;
+}
+
+.divbuttons {
+    border-radius: 20px;
+    background-color: #1668e8;
+    color: white;
+    border: none;
+    padding: 5px 20px 5px 20px;
+}
+
+.divimg {
+    width: 370px;
+}
+
+.divlogos {
+    background-color: #1668e8;
+}
+
+.lineimg {
+    width: 110px;
+    margin: 0px 37px 0px 37px;
+}
+
+.secimg {
+    width: 80%;
+    margin-top: 0px;
+}
+
+.cardlogoimg{
+    width: 80px;
+    background-color: #1668e8;
+    margin: -60px 0px 45px 110px;
+    border-radius: 40px;
+    border: 6px solid white;
+}
+
+.cardgep {
+    padding: 0px 43px;
+}
+.cardgep1 {
+    padding: 0px 0px 30px 0px;
+    background-color: rgb(207, 232, 232);
+}
+
+.mancard{
+    padding-top: 40px;
+}
+.manebutton{
+    border-radius: 20px;
+    padding: 6px 25px;
+}
+.sapmtext{
+    color: #1668e8;
+}
+.divgep1{
+    padding-top: 100px;
+}
+.new1 {
+    background-color: rgb(13 14 14);
+    margin: 45px 7%;
+    border-radius: 20px;
+    padding: 50px 45px 45px 45px;
+}
+.cardtext{
+    font-size: 40px;
+    color: white;
+}
+.card2{
+    float: left;
+}
+.card3{
+    padding: 25px 0px 0px 25px;
+    color: white;
+}
+.new2 {
+    background-color: rgb(49, 227, 138);
+    border-radius: 20px;
+    padding: 100px 0px 100px 0px;
+}
+.button2{
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 37%;
+    padding: 10px 220px 10px 10px;
+}
+.button3{
+    background-color: #1668e8;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: -8%;
+    padding: 8px 18px;
+}
+
+
+
+ 
